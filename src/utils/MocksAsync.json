@@ -1,0 +1,159 @@
+{
+  "categorias": [
+  { "id": 1, "nombre": "Tinto" },
+  { "id": 2, "nombre": "Rosado" },
+  { "id": 3, "nombre": "Blanco" }
+],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Tarapaca",
+      "descripcion": "Aromáticamente complejo · De noble personalidad · Amable frescura que no cansa al paladar.",
+      "precio": 25.99,
+      "stock": 40,
+      "imagen": "https://tarapaca.cl/wp-content/uploads/packshots/Vino-Tinto-Reserva-Cabernet-Sauvignon-Carmenere-Valle-Central-Tarapaca.png",
+      "isOnDiscount": true,
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Bruma",
+      "descripcion": "Es un vino con un blend poco común pero que genera bastante frescura, jugosidad y buen cuerpo.",
+      "precio": 22.50,
+      "stock": 45,
+      "imagen": "https://images.vivino.com/thumbs/IjegYsgyRwKdqkdaAjfeHw_pb_x600.png",
+      "isOnDiscount": true,
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Trus",
+      "descripcion": "En boca resulta muy intenso y elegante , uniéndose la fruta y el aporte de la suave barrica, con notas de canela y especiados.",
+      "precio": 18.75,
+      "stock": 20,
+      "imagen": "https://palaciosvinosdefinca.com/wp-content/uploads/2023/05/Bodegas-Palacios-Vinos-de-Finca-Ribera-del-Duero-Trus-Crianza.png",
+      "isOnDiscount": true,
+      "categoria": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Casillero del Diablo",
+      "descripcion": "Aromáticamente complejo · De noble personalidad · Amable frescura que no cansa al paladar.",
+      "precio": 30.23,
+      "stock": 29,
+      "imagen": "https://m.media-amazon.com/images/I/61gtOX-RFTL._AC_UF894,1000_QL80_.jpg",
+      "isOnDiscount":true,
+      "categoria":1
+    },
+    {
+      "id": 5,
+      "nombre": "Ladron De Guevara",
+      "descripcion": "Este vino crianza está compuesto de uva tempranillo. 12 meses en barrica. Ideal para carnes, guisos y legumbres.",
+      "precio": 28.90,
+      "stock": 30,
+      "imagen": "https://www.ideavinos.com/media/catalog/product/cache/30d4cd710450fe197a125c5873321806/v/i/vino-baron-ladron-de-guevara-cosecha_1.jpg",
+      "isOnDiscount": true,
+      "categoria": 1
+
+    },
+    {
+      "id": 6,
+      "nombre": "Rosé Electrico",
+      "descripcion": "Su sabor suave y envolvente lo hace un vino fresco y ligero, sus notas frutales son una delicia para el paladar",
+      "precio": 19.95,
+      "stock": 23,
+      "imagen": "https://vinoitaliano.mx/wp-content/uploads/2019/10/Rose-del-Borro.png",
+      "isOnDiscount":true,
+      "categoria":2
+    },
+    {
+      "id": 7,
+      "nombre": "Dulce",
+      "descripcion": "Buen vino espumoso dulce de uvas Chenin, Chardonnay y Trebbiano.",
+      "precio": 16.80,
+      "stock": 49,
+      "imagen": "https://m.media-amazon.com/images/I/61LfuG-okEL._AC_UF894,1000_QL80_.jpg",
+      "isOnDiscount":true,
+      "categoria":2
+    },
+    {
+      "id": 8,
+      "nombre": "Eufória",
+      "descripcion": "De color rosado pálido. Aromas a fruta roja fresca (cereza y frambuesa) sobre un fragante fondo floral (flor de almendro).",
+      "precio": 24.50,
+      "stock": 34,
+      "imagen": "https://m.media-amazon.com/images/I/41AGjytCeWL._AC_.jpg",
+      "isOnDiscount":true,
+      "categoria":2
+    },
+    {
+      "id": 9,
+      "nombre": "Rosé Secreto",
+      "descripcion": "Notas de sabor y aromas: rosado seco y fresco. Aromático con nariz a frutas tropicales y cítricas que continuan en paladar.",
+      "precio": 24.59,
+      "stock": 39,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyYARPw5ss9q2BR8KexrvmOvIfChUedJ1xw&usqp=CAU",
+      "isOnDiscount":true,
+      "categoria":2
+    },
+    {
+      "id": 10,
+      "nombre": "Armonía",
+      "descripcion": "Posee tonos rosados fresa tenue, con tonalidades salmón y aspecto brillante. Con aromas del tipo frutado muy presentes y con notas cítricas.",
+      "precio": 26.80,
+      "stock": 19,
+      "imagen": "https://i.pinimg.com/originals/eb/bb/5d/ebbb5d7a80234cca441b3e798edad99b.jpg",
+      "isOnDiscount":true,
+      "categoria":2
+    },
+    {
+      "id": 11,
+      "nombre": "La Cetto",
+      "descripcion": "Amarillo paja, limpio y brillante. Aromas tropicales como piña, lima y un recuerdo a miel de panal. Se percibe sutil, de agradable dulzor y fresca acidez.",
+      "precio": 19.99,
+      "stock": 23,
+      "imagen": "https://images.vivino.com/thumbs/mpaisQZ_TBSZ1eLvqVQAfQ_pb_x960.png",
+      "isOnDiscount":true,
+      "categoria":3
+    },
+    {
+      "id": 12,
+      "nombre": "Ménage à Trois",
+      "descripcion": "Redondo y con gran volumen , sabores a frutas tropicales maduras , vainilla y especias. Textura untuosa y con un final persistente.",
+      "precio": 22.75,
+      "stock": 25,
+      "imagen": "https://winechateau.com/cdn/shop/products/1_2257694f-0d39-4a80-8331-26738c31c74d.jpg?v=1632170433",
+      "isOnDiscount":true,
+      "categoria":3
+    },
+    {
+      "id": 13,
+      "nombre": "Blue nun",
+      "descripcion": "Vino Blanco de Alemania descubre aromas a mandarina y madreselva, delicado y de baja graduación. Con una dulzura residual bien equilibrada.",
+      "precio": 18.50,
+      "stock": 32,
+      "imagen": "https://images.vivino.com/thumbs/QFZ0qirQTiu6nYgE8Xm6ZA_pb_x600.png",
+      "isOnDiscount":true,
+      "categoria":3
+    },
+    {
+      "id": 14,
+      "nombre": "F.Chauvenet",
+      "descripcion": "Gusto suave y elegante dominio de las notas de acidez. Maridaje perfecto para acompañar pescados y mariscos. ",
+      "precio": 24.90,
+      "stock": 29,
+      "imagen": "https://anfitriondemexico.com.mx/wp-content/uploads/2022/03/CHAUVENET-TINTO.jpg",
+      "isOnDiscount":true,
+      "categoria":3
+    },{
+      "id": 15,
+      "nombre": "Viognier Exquisito",
+      "descripcion": "Vino amarillo palido con reflejos dorados, En naris es abierto y expresivo, con deliciosas notas a pera y flores blancas. Su sabor es suave, delicioso y equilibrado, gracias a su gran frescura y persistencia. ",
+      "precio": 17.30,
+      "stock": 27,
+      "imagen": "https://vinopremier.com/media/catalog/product/v/i/vino-blanco-son-vich-viognier-barrica-vinopremier.jpg",
+      "isOnDiscount":true,
+      "categoria":3
+    }
+  ]
+}
